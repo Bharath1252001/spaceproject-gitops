@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: space
-        image: bharathg125/spaceproject:v32
+        image: bharathg125/spaceproject:v33
         ports:
         - containerPort: 80
         resources:
